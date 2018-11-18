@@ -1,4 +1,4 @@
-# Seq2BF: Based On OpenNMT-py
+# Seq2BF: Key word chat robot based On OpenNMT-py 
 
 ## Requirements
 
